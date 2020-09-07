@@ -1,0 +1,12 @@
+// For
+
+
+
+
+// while
+
+
+
+
+//  do while
+
