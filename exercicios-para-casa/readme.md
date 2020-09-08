@@ -58,11 +58,14 @@
 
 ## Como resolver os exercícios ?
 
-1. Em cada pasta do exercício crie um arquivo index.html e script.js, lembrasse de link o script no arquivo html.
+1. Em cada pasta do exercício crie um arquivo script.js e adicionei uma estrutura básica do html no index.html e linke o arquivo script.js
+ 
+2. Para certifica-se que o script.js está linkado corretamente, escreva um alert('Oi') e teste em seu navegador.
 
-2. Escreva um alert('Hello World') para se certificar que o arquivo está linkado e mão na massa :)
+3. Mão na massa :)
 
-3. O mais importante: Se você cansar, aprenda a descansar, não a desistir. 
+
+**Observação:** Se você cansar, aprenda a descansar, não a desistir. 
 
 
 ## E se eu não estiver conseguindo fazer ou com dificuldades ?
