@@ -1,3 +1,21 @@
+
+# Tópicos para estudar
+
+### [Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Fun%C3%A7%C3%B5es)
+- Criar funções
+- Chamar funções
+- Parâmetros
+- Retornar valores
+- Escopo de variáveis
+
+### [Condicionais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operador_Condicional)
+- Operador ternário
+
+### [String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/template_strings)
+- Template String
+
+---
+
 # Instruções para fazer e entregar os exercícios 
 
 ## Como faço pra baixar e enviar os exercícios ?
@@ -67,7 +85,7 @@ Dica: Se preferir rodar seu código e ver o que está acontecendo você pode usa
 ## E se eu não estiver conseguindo fazer ou com dificuldades ?
 
 - Escreva em português o passo a passo que você pensou para resolver (não se apegue ao JS, mais importante você focar na lógica...vá com calma)
-- Divida suas ideias e peça ajuda no grupo do whats ou pra Nat (onde se sentir mais confortável, lembre que todas estamos aprendendo...ninguém vai te julgar)
+- Está travada em um exercício? Peça ajuda para colegas ou pra Nat (onde se sentir mais confortável, lembre que todas estamos aprendendo...ninguém vai te julgar)
 - Tente pesquisar no Google
 - Reveja a aula
 - Não desista ( se você tentou de tudo e não conseguiu resolver, copie na cara dura o código e corra atrás de ir entendendo as coisas no seu tempo. Só não começe por essa opção!)

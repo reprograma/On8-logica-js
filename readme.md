@@ -11,7 +11,7 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 - Navegador Chrome
 - Visual Studio Code
 ---
-######[Link da Apresentação](https://docs.google.com/presentation/d/1zMDWBbotO1zADMIphkAzRB8fON_qF5HRajfTwrDUn4A/edit?usp=sharing)
+[Link da Apresentação](https://docs.google.com/presentation/d/1zMDWBbotO1zADMIphkAzRB8fON_qF5HRajfTwrDUn4A/edit?usp=sharing)
 
 ### Introdução  
 - [ ] Por que aprender lógica + JavaScript?

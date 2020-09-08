@@ -6,10 +6,6 @@
 
 
 
-// Operadores atribuição
-
-
-
 // Operador Unário
 
 
