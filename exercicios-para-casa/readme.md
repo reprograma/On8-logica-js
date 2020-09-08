@@ -1,5 +1,5 @@
 
-# Tópicos para estudar
+# Tópico para estudar
 
 ### [Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Fun%C3%A7%C3%B5es)
 - Criar funções
@@ -8,23 +8,13 @@
 - Retornar valores
 - Escopo de variáveis
 
-### [Condicionais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operador_Condicional)
-- Operador ternário
-
-### [String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/template_strings)
-- Template String
-
 ---
 
 # Instruções para fazer e entregar os exercícios 
 
 ## Como faço pra baixar e enviar os exercícios ?
 
-1. Entre no repositório da Reprograma e clique no code, copie o link.
-
-   [Repositório da aula](https://github.com/reprograma/On8-logica-js)
-
-![code](https://camo.githubusercontent.com/d865286ea61cae8cead3896a71cbcd60cdae81d2/68747470733a2f2f692e6962622e636f2f314a324d4632322f6769742d666f726b2e706e67)
+1. Entre no repositório da Reprograma e "forke" o [repositorio da aula](https://github.com/reprograma/On8-logica-js/)
 
 2. Clone o repositório para a sua máquina
 
@@ -37,7 +27,6 @@
    ```
    git chechout -b "seu-nome"`
    ```
-
 
 4. Entrem na branch criada e sejam felizes resolvendo o exercício :)
 
@@ -55,7 +44,7 @@
     |  ├──natalia-luiza // exemplo como deve ficar
    ```
 
-5. Adicionem as atualizações, "commitem" e deêm `push` no repositório de vocês
+6. Adicionem as atualizações, "commitem" e deêm `push` no repositório de vocês
    (Verifique que você está na sua branch)
 
    ```
@@ -64,22 +53,16 @@
    git push origin SEU-NOME
    ```
 
-6. Entrem no repositório da reprograma e façam o `pull request` dos exercícios
-
+7. Entrem no git de vocês e deêm um `pull request` quando terminarem um exercício ou quando terminarem tudo.
 
 
 ## Como resolver os exercícios ?
 
-1. Onde estiver escrito [Substitua este texto por sua resposta], apague e coloque sua resposta
+1. Em cada pasta do exercício crie um arquivo index.html e script.js, lembrasse de link o script no arquivo html.
 
-2. Quando for pedido o cálculo ou o resultado de alguma expressão, coloque o seu código e acrescente um comentário com a resposta que o console retornou.
+2. Escreva um alert('Hello World') para se certificar que o arquivo está linkado e mão na massa :)
 
-> Ex: some dois numeros  
-> Resposta: 2 + 5 // 7  (2+5 é o seu codigo e 7 é o que o console retornou)
-
-3. Tente simplificar a sua vida, sempre que possível copie seu codigo e rode no console do seu navegador 
-
-Dica: Se preferir rodar seu código e ver o que está acontecendo você pode usar uma plataforma online. Existem várias, mas gosto muito dessa: https://repl.it (tem que criar uma conta, mas é rapidinho)
+3. O mais importante: Se você cansar, aprenda a descansar, não a desistir. 
 
 
 ## E se eu não estiver conseguindo fazer ou com dificuldades ?
