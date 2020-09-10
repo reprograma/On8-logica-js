@@ -44,9 +44,20 @@
 
     - Entrada de dados: Ler dois valores
     - Processamento: verificar se o valor A é igual o valor B
-    - Saída: Exibir no console a mensagem "O valor A é o valor B, Resposta"
+     - Saída: Exibir no console a mensagem "O valor A é igual valor B, verdadeiro ou false?"
  
 */
+
+// 4. Declare uma nova variável chamada `calculadora`, e adicione uma instrução somando os valores 10 e 5.
+
+
+// 5.  Atribua à variável `calculadora` todo o valor dela, somando 1, usando o operador de soma abreviado.
+
+
+// 6. Atribua à variável `calculadora` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
+
+
+// 7. Qual é o valor da variável `calculadora` até aqui?
 
 
 
