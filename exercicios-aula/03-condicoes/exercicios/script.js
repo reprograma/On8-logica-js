@@ -13,16 +13,46 @@
 /* 
   1. Elabore um algoritmo que receba uma letra e determine se é uma vogal ou consoante (Faça duas versões deste código, uma utilizando if-else e outra utilizando switch-case);
 */
+const letra = prompt ("Digite uma letra do alfabeto")
 
+//switch
+switch(letra{
+  case "a":
+    
+      case "i
+      case 'o'
+})
+ console.log ("Aletra é uma vogal")
+ break;
+ default:
+   console.log("A letra é uma consoante")
+
+
+
+if (letra === 'a'// letra === "e" uma vogal')} else {console.log('essa e uma consoante')}
+
+
+
+}
 /* 
   2. Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente;
 
 */
 
 
+
 /* 
   3. Elabore um algoritmo que receba dois números e determine qual é o maior entre eles, se ambos os números forem iguais, mostre uma mensagem no console "Os números são iguais";
 */
+
+let number1 = Number(prompt('Digite um numero'))
+let number2 = Number(prompt('Digite o outro numero, parça'))
+
+if(numbe1 > number2){
+  console.log('0 ${number1} é maior que o numero ${number2})
+} else if (number1 < number2){ 
+  console.log("os numeros iguais")
+}
 
 
 /*
@@ -37,3 +67,7 @@
   Alunos de recuperação devem ver a mensagem: Você está de recuperação!
   Alunos reprovados devem ver a mensagem: Que pena, você foi reprovado.
 */
+
+let notaAluno1 = 6
+let notaAluno2 = 7
+let notaAluno3 = 9

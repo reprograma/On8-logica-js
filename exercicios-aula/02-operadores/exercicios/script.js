@@ -25,7 +25,8 @@
 
   Obs: Utilizar o Number() para converter o tipo da variável em número.
 */
-
+const numero1 = Number(prompt(informe o numero 1))
+const numero2 = Number(prompt(informe o numero 2))
 
 /* 
   2. Crie um algoritmo que leia o valor de um jantar, calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago.
@@ -47,17 +48,22 @@
      - Saída: Exibir no console a mensagem "O valor A é igual valor B, verdadeiro ou false?"
  
 */
+const numero1 = Number(prompt(informe o numero 1))
+const numero2 = Number(prompt(informe o numero 2))
+
+console.log('O valor' + numero1  +'e igual ao' + numero2 + comparacao)
 
 // 4. Declare uma nova variável chamada `calculadora`, e adicione uma instrução somando os valores 10 e 5.
-
+let calculadora = 10 + 5
 
 // 5.  Atribua à variável `calculadora` todo o valor dela, somando 1, usando o operador de soma abreviado.
-
+calculadora++
 
 // 6. Atribua à variável `calculadora` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
-
+calculadora *= 3
 
 // 7. Qual é o valor da variável `calculadora` até aqui?
 
+console.log(calculadora)
 
 
