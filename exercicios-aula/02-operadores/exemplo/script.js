@@ -1,7 +1,6 @@
 //  Operadores aritméticos
 
 
-
 // operadores aritméticos (string)
 
 

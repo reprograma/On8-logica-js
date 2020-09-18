@@ -25,6 +25,11 @@
 
   Obs: Utilizar o Number() para converter o tipo da variável em número.
 */
+const numero1 = Number (prompt ('informe um numero 1'))
+const numero2 = Number (prompt ('Informe o numero2'))
+
+const comparacao = numero1 === numero2
+
 
 
 /* 
