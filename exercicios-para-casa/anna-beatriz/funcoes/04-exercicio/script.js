@@ -4,14 +4,14 @@
 
 
 function anoNascimento (num) { 
-    return num; 
+  num = Number(prompt("Digite o ano em que você nasceu:"));
+  
+  if (anoNascimento <= 2002) {
+    return "Você é maior de idade";
   }
 
-  if (anoNascimento >= 18) {
-    console.log ("Você é maior de idade")
+  else {
+    return "Você é menor de idade";
   }
 
-  else if (anoNascimento < 18) {
-    console.log ("Você é menor de idade")
-  }
-
+}

@@ -3,11 +3,10 @@
  `Exemplo: "Olá, Natália"`
  */
 
- const nome = (prompt("Informe seu nome"))
+ 
 
- function saudacao (nome1) {
-     nome = nome1
+ function saudacao (nome) {
+    nome = (prompt("Informe seu nome"));
+    return "Olá, " + saudacao (nome);
+
  }
-
- alert("Olá, " + saudacao (nome1) )
-
