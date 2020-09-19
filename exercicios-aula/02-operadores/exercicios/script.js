@@ -24,7 +24,16 @@
   - Saída: exibir a soma dos valores
 
   Obs: Utilizar o Number() para converter o tipo da variável em número.
+
+
+
+let num_1 = Number(prompt('digite um número'));
+let num_2 = Number(prompt('digite um segundo numero'));
+let soma = num_1 + num_2;
+
+alert('A soma dos dois numeros é: ' + soma);
 */
+
 
 
 /* 
@@ -37,7 +46,20 @@
   Obs: Utilizar o Number() para converter o tipo para numero dos dados.
 */
 
+let valorJantar = Number(prompt("Informe o valor do jantar"));
+let taxaGarcom = valorJantar * 0.10;
+let valorTotal = valorJantar + taxaGarcom;
 
+console.log("O valor do jantar é: ", valorJantar);
+console.log("O valor da taxa do garçom é: ", taxaGarcom);
+console.log("O valor total do jantar é: ", valorTotal);
+
+
+alert("O valor do jantar é: " + valorJantar);
+alert("O valor da taxa do garçom é: " + taxaGarcom);
+alert("O valor total a ser pago é: " + valorTotal);
+
+*/
 
 /* 
   3.  Crie um algoritmo que leia dois valores, verifique se eles são iguais.
@@ -46,7 +68,10 @@
     - Processamento: verificar se o valor A é igual o valor B
      - Saída: Exibir no console a mensagem "O valor A é igual valor B, verdadeiro ou false?"
  
-*/
+*/ 
+/*
+let valor1 = Number(prompt("Insira um valor! "))
+
 
 // 4. Declare uma nova variável chamada `calculadora`, e adicione uma instrução somando os valores 10 e 5.
 
