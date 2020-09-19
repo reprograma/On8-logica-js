@@ -17,6 +17,19 @@
   inclusive esses 2
 */
 
+
+for (let i = 0; i <=== 100; i++) {
+
+  console log (i)
+  
+}
+
+
+
+
+
+
+
 /* 
   2. Utilizando a estrutura de repetição for, mostre no console apenas os números pares de 1 ao 50.
   - Números pares são todos os números que dividos por 2 tem resto 0
