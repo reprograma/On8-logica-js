@@ -1,0 +1,10 @@
+let x = Number(prompt('Digite um número inteiro:'))
+let y = Number(prompt('Digite um número inteiro:'))
+let z = Number(prompt('Digite um número inteiro:'))
+let b = Number(prompt('Digite um número inteiro:'))
+let n = Number(prompt('Digite um número inteiro:'))
+x % 2 == 0 == true
+y % 2 == 0 == true
+z % 2 == 0 == true
+b % 2 == 0 == true
+n % 2 == 0 == true
