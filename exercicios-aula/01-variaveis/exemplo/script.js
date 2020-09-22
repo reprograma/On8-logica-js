@@ -1,4 +1,9 @@
 //  Como declarar variáveis utilizando let e const
+const nomeCompleto = 'Natália Luiza';
+
+let diaDaSemana = 'sabado';
+
+diaDaSemana = 'quarta-feira';
 
 const nomeCompleto = 'Natália Luiza';
 
@@ -32,4 +37,4 @@ function soma(a, b){
 
 console.log(typeof number) // numero
 console.log(typeof texto) // texto
-console.log(typeof gostoDeProgramar) // 
+
