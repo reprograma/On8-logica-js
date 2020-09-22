@@ -5,8 +5,15 @@ let diaDaSemana = 'sabado';
 
 diaDaSemana = 'quarta-feira';
 
+const nomeCompleto = 'Natália Luiza';
+
+let diaDaSemana = 'sabado';
+
+diaDaSemana = 'quarta-feira';
+
 
 //  Tipo de dados 
+
 const number = 20; // numero
 const numeroDecimal = 20.50 // decimal
 const texto = 'string' // texto
@@ -30,4 +37,4 @@ function soma(a, b){
 
 console.log(typeof number) // numero
 console.log(typeof texto) // texto
-console.log(typeof gostoDeProgramar)
+

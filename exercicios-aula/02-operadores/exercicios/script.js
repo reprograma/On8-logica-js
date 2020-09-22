@@ -25,8 +25,12 @@
 
   Obs: Utilizar o Number() para converter o tipo da variável em número.
 */
-const numero1 = Number(prompt(informe o numero 1))
-const numero2 = Number(prompt(informe o numero 2))
+const numero1 = Number(prompt('informe o um numero 1'))
+const numero2 = Number(prompt('informe o um numero 2'))
+
+const valorTotal = numero1 + numero2
+
+alert(valorTotal)
 
 /* 
   2. Crie um algoritmo que leia o valor de um jantar, calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago.
@@ -38,6 +42,15 @@ const numero2 = Number(prompt(informe o numero 2))
   Obs: Utilizar o Number() para converter o tipo para numero dos dados.
 */
 
+const valorDoJantar = Number(prompt('Informe o valor do Jantar'))
+
+const taxaGarcom = valorDoJantar * 0.10 // valorDoJantar * (10 / 100)
+
+const valorTotal = valorDoJantar + taxaGarcom
+
+console.log('O valor do jantar ', valorDoJantar)
+console.log('Taxa do Garçom', taxaGarcom)
+console.log('O valor total', valorTotal)
 
 
 /* 
@@ -50,6 +63,8 @@ const numero2 = Number(prompt(informe o numero 2))
 */
 const numero1 = Number(prompt(informe o numero 1))
 const numero2 = Number(prompt(informe o numero 2))
+
+const comparacao = numero1 === numero2
 
 console.log('O valor' + numero1  +'e igual ao' + numero2 + comparacao)
 
