@@ -1,35 +1,43 @@
 //  Como declarar variáveis utilizando let e const
+const nomeCompleto = 'Natália Luiza';
 
-const nomeCompleto = 'Fernanda Raiza'
+let diaDaSemana = 'sabado';
 
-let diaDaSemana = 'Sábado'
+diaDaSemana = 'quarta-feira';
 
+const nomeCompleto = 'Natália Luiza';
 
+let diaDaSemana = 'sabado';
 
-console.log(nomeCompleto)
-console.log(diaDaSemana)
+diaDaSemana = 'quarta-feira';
+
+const rg = 3555296;
+const dataDeNascimento = '12/05/1970';
+const cpf = 64226212487;
 
 //  Tipo de dados 
-const number = 20;
 
-const numeroDecimal = 45.50;
 
-const texto = 'string';
+const number = 20; // numero
+const numeroDecimal = 20.50 // decimal
+const texto = 'string' // texto
+const gostoDeProgramar = true // verdadeiro
 
-const gostoDeProgramar = true;
+let idade; 
+let nome;
+
+idade = 25
+console.log(nome)
 
 const pessoa = {
-    nome: 'Fernanda Raiza'
+  nome: 'natalia' 
 }
 
-const listaDeCompra = ['Arroz', 'Feijão', 'Frango Assado']
+const listaDeCompra = ['Arroz', 'Batata', 'Chocolate']
 
 function soma(a, b){
-    return a + b;
+ return a + b;
 }
 
-console.log(typeof number)
-console.log(typeof numeroDecimal)
-console.log(typeof texto)
-console.log(typeof gostoDeProgramar)
-console.log(typeof listaDeCompra)
+console.log(typeof number) // numero
+console.log(typeof texto) // texto

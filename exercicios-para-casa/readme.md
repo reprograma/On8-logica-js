@@ -48,7 +48,7 @@
    (Verifique que você está na sua branch)
 
    ```
-   git add . ou git add (nome do arquivo ou pasta)
+   git add exercicios-para-casa
    git commit -m "texto do seu commit"
    git push origin SEU-NOME
    ```

@@ -1,27 +1,20 @@
-// if / else if / else
+let formaDePagamento = prompt('Qual é a forma de pagamento?');
 
 /*if*/
-
-/*const clienteAtivo = true
-const maiorDeIdade = true
-
-if(clienteAtivo && maiorDeIdade && (5 < 10)) {
-    console.log('Eba')
-}else { 
-         console.log('hello')
-        }*/
-
-/*const diaDaSemana = 'Sábado'
-const diaDaRevisao = 'Quarta'
-
-if(diaDaSemana === 'Sábado') {
-    console.log('Eba, hoje tem aula da reprograma')
+// exemplo de if / else if / else
+if(formaDePagamento === 'dinheiro'){
+console.log('sua forma de pagamento foi dinheiro')
+} else if(formaDePagamento === 'cartao'){
+  console.log('sua forma de pagamento foi cartao')
+} else if(formaDePagamento === 'cheque'){
+console.log('sua forma de pagamento foi cheque')
+} else {
+console.log('opcao invalida')
 }
-else{
-    console.log('Poxa, hoje não tem aula da reprograma')
-}*/
 
-/*const diaDaSemana = 'Sábado'
+
+
+const diaDaSemana = 'Sábado'
 const diaDaRevisao = 'Quarta'
 
 if(diaDaSemana === 'Sábado'){
@@ -33,7 +26,19 @@ else if(diaDaRevisao === 'Quarta') {
 else {
     console.log('Hoje não tem aula da reprograma')
 }
-*/
 
-// Switch
 
+//  Exemplo com switch
+switch(formaDePagamento){
+ case 'dinheiro': 
+  console.log('sua forma de pagamento foi dinheiro')
+   break;
+ case 'cartao':
+  console.log('sua forma de pagamento foi cartao')
+  break;
+ case 'cheque': 
+  console.log('sua forma de pagamento foi cheque')
+  break;
+ default:
+   console.log('opcao invalida')
+}
