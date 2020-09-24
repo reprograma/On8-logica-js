@@ -12,28 +12,29 @@
   const frase = 'Olá Mundo!' 
   console.log(frase)
 
-/*  2. Declare uma variável let chamada anoNascimento sem atribuir valor */
+/* 
+  2. Declare uma variável let chamada anoNascimento sem atribuir valor
 
-  let anoNascimento  
-
+*/
+let anoNascimento
 /* 
   3. Atribuía o ano que você nasceu na variável anoNascimento e exiba no console
 */
-  anoNascimento = '04/12/1994'
+  anoNascimento = '1995'
   console.log(anoNascimento) 
-
 /* 
   4. Declare uma variável chamada `gostoDeProgramar`, atribuindo à ela o valor booleano que representa `verdadeiro` e exiba no console.
 */
-  const gostoDeProgramar = true
-  console.log(gostoDeProgramar)
+
+let gostoDeProgramar = true
+console.log(gostoDeProgramar)
 
 /* 
   5. Exiba no console os tipos das variáveis criadas a cima utilizando o operador typeof
      ex: console.log(typeof variavel)
 */
 
-  console.log(typeof frase)
-  console.log(typeof anoNascimento)
-  console.log(typeof gostoDeProgramar)
+console.log(typeof mensagem)
+console.log(typeof anoNascimento)
+console.log(typeof gostoDeProgramar)
 

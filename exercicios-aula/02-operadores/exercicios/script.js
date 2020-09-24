@@ -33,7 +33,12 @@ let soma = num_1 + num_2;
 
 alert('A soma dos dois numeros é: ' + soma);
 */
+const numero1 = Number(prompt('informe o um numero 1'))
+const numero2 = Number(prompt('informe o um numero 2'))
 
+const valorTotal = numero1 + numero2
+
+alert(valorTotal)
 
 
 /* 
@@ -46,18 +51,15 @@ alert('A soma dos dois numeros é: ' + soma);
   Obs: Utilizar o Number() para converter o tipo para numero dos dados.
 */
 
-let valorJantar = Number(prompt("Informe o valor do jantar"));
-let taxaGarcom = valorJantar * 0.10;
-let valorTotal = valorJantar + taxaGarcom;
+const valorDoJantar = Number(prompt('Informe o valor do Jantar'))
 
-console.log("O valor do jantar é: ", valorJantar);
-console.log("O valor da taxa do garçom é: ", taxaGarcom);
-console.log("O valor total do jantar é: ", valorTotal);
+const taxaGarcom = valorDoJantar * 0.10 // valorDoJantar * (10 / 100)
 
+const valorTotal = valorDoJantar + taxaGarcom
 
-alert("O valor do jantar é: " + valorJantar);
-alert("O valor da taxa do garçom é: " + taxaGarcom);
-alert("O valor total a ser pago é: " + valorTotal);
+console.log('O valor do jantar ', valorDoJantar)
+console.log('Taxa do Garçom', taxaGarcom)
+console.log('O valor total', valorTotal)
 
 */
 
@@ -67,22 +69,24 @@ alert("O valor total a ser pago é: " + valorTotal);
     - Entrada de dados: Ler dois valores
     - Processamento: verificar se o valor A é igual o valor B
      - Saída: Exibir no console a mensagem "O valor A é igual valor B, verdadeiro ou false?"
- 
-*/ 
-/*
-let valor1 = Number(prompt("Insira um valor! "))
 
+     poder ser assim: const comparacao = numero1 === numero2*/
+     
+     const numero1 = Number(prompt('Informe o numero 1'))
+     const numero2 = Number(prompt('Informe o numero 2'))
+     
+     
+    console.log('O valor ' + numero1 + 'é igual ao' + numero2 + numero1 === numero2)
+    console.log('O valor ${numero1} é igual ao ${numero2}, ${numero1} === ${numero2}')
 
 // 4. Declare uma nova variável chamada `calculadora`, e adicione uma instrução somando os valores 10 e 5.
-
+let calculadora = 10 + 5
 
 // 5.  Atribua à variável `calculadora` todo o valor dela, somando 1, usando o operador de soma abreviado.
-
-
+calculadora++
 // 6. Atribua à variável `calculadora` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
-
-
+calculadora *=3
 // 7. Qual é o valor da variável `calculadora` até aqui?
-
+console.log(calculadora)
 
 
