@@ -1,9 +1,4 @@
 //  Operadores aritméticos
-const soma = 10 +  5; // 15
-const sub =  10 - 5; // 5
-const multiplicacao = 10 * 10 // 100
-const divisao = 10 / 2; // 5 5
-const modulo = 10 % 3 // 1
 
 // operadores aritméticos (string)
 

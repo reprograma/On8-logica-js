@@ -36,6 +36,7 @@ if (letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra ==
 }
 
 
+
 /* 
   2. Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente;
 
@@ -63,6 +64,7 @@ switch(numero){
 }
 
 console.log('O dia da semana é' + diaDaSemana)
+
 
 
 

@@ -11,8 +11,12 @@ let diaDaSemana = 'sabado';
 
 diaDaSemana = 'quarta-feira';
 
+const rg = 3555296;
+const dataDeNascimento = '12/05/1970';
+const cpf = 64226212487;
 
 //  Tipo de dados 
+
 
 const number = 20; // numero
 const numeroDecimal = 20.50 // decimal
@@ -37,4 +41,3 @@ function soma(a, b){
 
 console.log(typeof number) // numero
 console.log(typeof texto) // texto
-
