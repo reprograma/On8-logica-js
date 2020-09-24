@@ -1,0 +1,1 @@
+function calculoDoValor(código, quantidade) {}

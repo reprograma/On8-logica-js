@@ -5,5 +5,4 @@ function parOuImpar(numero){
     } else {
         console.log('É ímpar!')
     }
-    
     }

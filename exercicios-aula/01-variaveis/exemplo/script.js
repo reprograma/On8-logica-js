@@ -5,12 +5,6 @@ let diaDaSemana = 'sabado';
 
 diaDaSemana = 'quarta-feira';
 
-const nomeCompleto = 'Natália Luiza';
-
-let diaDaSemana = 'sabado';
-
-diaDaSemana = 'quarta-feira';
-
 const rg = 3555296;
 const dataDeNascimento = '12/05/1970';
 const cpf = 64226212487;
@@ -39,5 +33,6 @@ function soma(a, b){
  return a + b;
 }
 
+
 console.log(typeof number) // numero
-console.log(typeof texto) // texto
+console.log(typeof texto) // string
