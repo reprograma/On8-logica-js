@@ -24,6 +24,14 @@
   - Saída: exibir a soma dos valores
 
   Obs: Utilizar o Number() para converter o tipo da variável em número.
+
+
+
+let num_1 = Number(prompt('digite um número'));
+let num_2 = Number(prompt('digite um segundo numero'));
+let soma = num_1 + num_2;
+
+alert('A soma dos dois numeros é: ' + soma);
 */
 const numero1 = Number(prompt('informe o um numero 1'))
 const numero2 = Number(prompt('informe o um numero 2'))
@@ -31,6 +39,7 @@ const numero2 = Number(prompt('informe o um numero 2'))
 const valorTotal = numero1 + numero2
 
 alert(valorTotal)
+
 
 /* 
   2. Crie um algoritmo que leia o valor de um jantar, calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago.
@@ -52,6 +61,7 @@ console.log('O valor do jantar ', valorDoJantar)
 console.log('Taxa do Garçom', taxaGarcom)
 console.log('O valor total', valorTotal)
 
+*/
 
 /* 
   3.  Crie um algoritmo que leia dois valores, verifique se eles são iguais.
