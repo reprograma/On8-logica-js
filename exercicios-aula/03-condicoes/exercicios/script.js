@@ -67,6 +67,37 @@ console.log('O dia da semana é' + diaDaSemana)
 
 
 
+/*let diaDaSemana = prompt('Informe um número') 
+
+  switch (diaDaSemana) {
+          case '1':
+          console.log('Hoje é segunda-feira')
+          break;
+          case '2':
+          console.log('Hoje é terça-feira')
+          break;
+          case '3':
+          console.log('Hoje é quarta-feira')
+          break;
+          case '4':
+          console.log('Hoje é quinta-feira')
+          break;
+          case '5':
+          console.log('Hoje é sexta-feira')
+          break;
+          case '6':
+          console.log('Sábado')
+          break;
+          case '7':
+          console.log('Domingo')
+          break;
+          default:
+          console.log('Opção inválida')
+  }*/
+
+
+
+
 
 /* 
   3. Elabore um algoritmo que receba dois números e determine qual é o maior entre eles, se ambos os números forem iguais, mostre uma mensagem no console "Os números são iguais";
@@ -91,6 +122,14 @@ if(numbe1 > number2){
   console.log("os numeros iguais")
 }
 
+/*let numero1  = Number(prompt('Informe um número'))
+let numero2  = Number(prompt('Informe um número'))
+
+if (numero1 === numero2) {
+  console.log('Os números são iguais')
+} else {
+  console.log('os números são diferentes.')
+}*/
 
 /*
 

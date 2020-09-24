@@ -1,4 +1,21 @@
 //  Operadores aritméticos
+let soma = 10+10;
+console.log(soma)
+
+let subtração = 10-5;
+console.log(subtração)
+
+let multiplaicação = 5*6;
+console.log(multiplaicação)
+
+let divisão = 13/5;
+console.log(divisão)
+
+let expoente = 4**8;
+console.log(expoente)
+
+let modulo = 10%3;
+console.log(modulo)
 
 // operadores aritméticos (string)
 
@@ -52,5 +69,3 @@ alert(nome)
 let numero = Number(prompt("informe um numero"))
 let numero2 = parseInt(prompt('informe segundo numero'))
 let numero3 = parseFloat(prompt('informe terceiro numero'))
-
-

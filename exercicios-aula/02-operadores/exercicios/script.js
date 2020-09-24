@@ -59,26 +59,24 @@ console.log('O valor total', valorTotal)
     - Entrada de dados: Ler dois valores
     - Processamento: verificar se o valor A é igual o valor B
      - Saída: Exibir no console a mensagem "O valor A é igual valor B, verdadeiro ou false?"
- 
-*/
-const numero1 = Number(prompt(informe o numero 1))
-const numero2 = Number(prompt(informe o numero 2))
 
-const comparacao = numero1 === numero2
-
-console.log('O valor' + numero1  +'e igual ao' + numero2 + comparacao)
+     poder ser assim: const comparacao = numero1 === numero2*/
+     
+     const numero1 = Number(prompt('Informe o numero 1'))
+     const numero2 = Number(prompt('Informe o numero 2'))
+     
+     
+    console.log('O valor ' + numero1 + 'é igual ao' + numero2 + numero1 === numero2)
+    console.log('O valor ${numero1} é igual ao ${numero2}, ${numero1} === ${numero2}')
 
 // 4. Declare uma nova variável chamada `calculadora`, e adicione uma instrução somando os valores 10 e 5.
 let calculadora = 10 + 5
 
 // 5.  Atribua à variável `calculadora` todo o valor dela, somando 1, usando o operador de soma abreviado.
 calculadora++
-
 // 6. Atribua à variável `calculadora` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
-calculadora *= 3
-
+calculadora *=3
 // 7. Qual é o valor da variável `calculadora` até aqui?
-
 console.log(calculadora)
 
 
