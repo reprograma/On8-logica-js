@@ -50,9 +50,9 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 - [x] Importância do break (switch case)
 
 ### Repetições (Laços)
-- [ ] Estrutura for
-- [ ] Estrutura while
-- [ ] Estrutura do while
+- [x] Estrutura for
+- [x] Estrutura while
+- [x] Estrutura do while
 
 ### Ferramentas para interagir com os inputs
 - [x] prompt
